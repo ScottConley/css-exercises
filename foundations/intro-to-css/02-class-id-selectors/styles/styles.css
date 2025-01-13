@@ -1,0 +1,19 @@
+.a, .b {
+    background-color: lightcoral;
+    font-family: Verdana, DeJaVu Sans, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.b {
+    font-size: 24px;
+}
+
+#four {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
